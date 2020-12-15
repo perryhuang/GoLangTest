@@ -7,6 +7,7 @@ import (
 func Hello() string {
 	return quote.HelloV3()
 	//	return "Hello, world."
+	//	return "Hello, world."
 }
 
 func Proverb() string {
