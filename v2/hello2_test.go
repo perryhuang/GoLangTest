@@ -7,7 +7,7 @@ func TestHello2(t *testing.T) {
 	if got := Hello(); got != want {
 		t.Errorf("Hello() = %q, want %q", got, want)
 	}
-	//Test is V2
+	//add all files in V2
 }
 
 func TestProverb(t *testing.T) {
