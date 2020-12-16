@@ -5,8 +5,7 @@ import (
 )
 
 func Hello() string {
-	//	return quote.HelloV3()
-	return "Perry Test V1"
+	return quote.HelloV3()
 	//	return "Hello, world."
 	//	return "Hello, world."
 }

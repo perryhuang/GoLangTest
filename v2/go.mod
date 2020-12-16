@@ -1,4 +1,4 @@
-module github.com/perryhuang/GoLangTest
+module github.com/perryhuang/GoLangTest/v2
 
 go 1.14
 
