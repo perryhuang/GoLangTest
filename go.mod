@@ -1,4 +1,4 @@
-module innovation.com/hello2
+module github.com/perryhuang/GoLangTest
 
 go 1.14
 
